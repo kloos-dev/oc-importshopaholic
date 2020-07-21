@@ -1,0 +1,6 @@
+plugin:
+    name: 'codecycler.importshopaholic::lang.plugin.name'
+    description: 'codecycler.importshopaholic::lang.plugin.description'
+    author: Codecycler
+    icon: oc-icon-download
+    homepage: ''
